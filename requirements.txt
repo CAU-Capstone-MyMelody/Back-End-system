@@ -19,6 +19,6 @@ mido==1.2.10
 
 torch==1.13.1
 torchaudio==0.13.1
-tensorflow
+tensorflow==2.10.0
 
 melon-chart.py
