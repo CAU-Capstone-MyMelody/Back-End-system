@@ -3,6 +3,7 @@ fastapi==0.95.1
 uvicorn==0.22.0
 python-multipart==0.0.6
 aiofiles==23.1.0
+demucs
 
 librosa==0.10.0.post2
 pydub==0.25.1
@@ -18,5 +19,6 @@ mido==1.2.10
 
 torch==1.13.1
 torchaudio==0.13.1
+tensorflow
 
 melon-chart.py
