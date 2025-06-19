@@ -108,5 +108,4 @@ After placing the `crepe/` and `model/` folders into the project directory, you 
 
 ---
 
-# Developer
-JANG JINWOO
+## Back-End
