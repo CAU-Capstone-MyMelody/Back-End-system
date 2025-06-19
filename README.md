@@ -73,6 +73,7 @@
 - Python 3.10.13 권장
 - 가상환경 사용 권장 (venv, conda 등)
 - GPU 사용을 강력히 권장 (PyTorch 기반 모델 사용)
+- pip install -r requirements.txt
 
 ---
 
