@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+pydub
+numpy
+librosa
+mido
+pretty_midi
+demucs
+torch
+crepe 
