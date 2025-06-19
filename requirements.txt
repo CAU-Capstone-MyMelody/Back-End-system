@@ -10,7 +10,7 @@ pydub==0.25.1
 soundfile==0.12.1
 noisereduce==2.0.1
 
-numpy==1.23.5
+numpy==1.23.5              
 scipy==1.10.1
 pandas==1.5.3
 
@@ -19,6 +19,8 @@ mido==1.2.10
 
 torch==1.13.1
 torchaudio==0.13.1
-tensorflow==2.13.0
+
+typing-extensions==4.5.0   
+tensorflow-metal==1.0.1
 
 melon-chart.py
