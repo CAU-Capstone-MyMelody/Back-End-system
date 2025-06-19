@@ -94,7 +94,6 @@ To run the FastAPI server locally with auto-reloading:
 uvicorn main:app --reload
 ```
 
-
 ---
 
 ## Referenced Project
