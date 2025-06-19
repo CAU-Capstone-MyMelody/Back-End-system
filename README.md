@@ -78,17 +78,20 @@ This project is based on FastAPI and provides audio pitch analysis and compariso
 - GPU usage is strongly recommended (CREPE and Demucs are PyTorch-based)  
 
 
-Install dependencies via
+Install dependencies via:
+
 ```bash
-pip install -r requirements.txt .
+pip install -r requirements.txt
+
 
 ---
 
 ## 🔧 How to Run Locally
 
-To run the FastAPI server locally with auto-reloading
+To run the FastAPI server locally with auto-reloading:
+
 ```bash
-uvicorn main:app --reload .
+uvicorn main:app --reload
 
 
 ---
