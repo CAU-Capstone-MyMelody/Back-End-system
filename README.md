@@ -79,17 +79,14 @@ This project is based on FastAPI and provides audio pitch analysis and compariso
 
 
 Install dependencies via
-  ```bash
-  pip install -r requirements.txt
+```bash pip install -r requirements.txt
 
 ---
 
 ## 🔧 How to Run Locally
 
 To run the FastAPI server locally with auto-reloading
-
-```bash
-uvicorn main:app --reload
+```bash uvicorn main:app --reload
 
 
 ---
