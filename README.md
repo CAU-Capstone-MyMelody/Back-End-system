@@ -105,3 +105,8 @@ CREPE is a high-accuracy deep learning model for pitch estimation in music infor
 In this project, we used parts of CREPE’s architecture and code as a foundation, and extended it with our own features and processing steps.
 
 After placing the `crepe/` and `model/` folders into the project directory, you must install CREPE locally using the `setup.py` inside the folder.
+
+---
+
+# Developer
+JANG JINWOO
