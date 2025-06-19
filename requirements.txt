@@ -1,26 +1,28 @@
 
-fastapi==0.95.1
-uvicorn==0.22.0
-python-multipart==0.0.6
-aiofiles==23.1.0
+fastapi
+uvicorn
+python-multipart
+aiofiles
 demucs
 
-librosa==0.10.0.post2
-pydub==0.25.1
-soundfile==0.12.1
-noisereduce==2.0.1
+librosa
+pydub
+soundfile
+noisereduce
 
-numpy==1.23.5              
-scipy==1.10.1
-pandas==1.5.3
+numpy          
+scipy
+pandas
 
-pretty_midi==0.2.9
-mido==1.2.10
+pretty_midi
+mido
 
-torch==1.13.1
-torchaudio==0.13.1
+torch
+torchaudio
 
-typing-extensions==4.5.0   
-tensorflow-metal==1.0.1
+tensorflow-macos
+tensorflow-metal
+
+typing-extensions
 
 melon-chart.py
