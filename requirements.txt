@@ -16,3 +16,5 @@ mido==1.2.10
 torch==1.13.1
 torchaudio==0.13.1
 pandas==1.5.3
+
+melo-chat
