@@ -18,6 +18,8 @@ torch==2.7.1
 crepe==0.0.16
 scikit-learn==1.7.0
 
+tensorflow
+
 demucs
 
 melon-chart.py
